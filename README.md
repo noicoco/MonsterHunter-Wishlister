@@ -35,7 +35,6 @@ A desktop app for tracking Monster Hunter armor sets and the materials needed to
 ## Getting started
 
 ```bash
-cd Wishlister
 npm install
 npm run tauri dev
 ```
